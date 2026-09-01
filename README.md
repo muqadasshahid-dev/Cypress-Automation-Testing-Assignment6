@@ -4,15 +4,11 @@ A maintainable end-to-end automation testing framework built with Cypress for th
 
 ## Project Overview
 
-This project automates major user flows of the SauceDemo application using Cypress and JavaScript. The framework follows the Page Object Model (POM) design pattern and uses fixtures and reusable custom commands to keep the test suite maintainable and independent.
-
-## Application Under Test
-
-SauceDemo
+This project automates major user flows of the SauceDemo application using Cypress and JavaScript.
 
 ## Technologies Used
 
-- Cypress 7.5.0
+- Cypress
 - JavaScript
 - Node.js
 - Page Object Model (POM)
@@ -43,7 +39,3 @@ cypress/
 └── support/
     ├── commands.js
     └── index.js
-
-cypress.json
-package.json
-README.md
